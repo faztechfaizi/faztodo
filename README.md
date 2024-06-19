@@ -11,4 +11,4 @@ A simple Todo app that allows users to add, edit, delete tasks, and save tasks u
 
 ## Apk
 
-https://bit.ly/faztodo
+https://bit.ly/faztodoo
