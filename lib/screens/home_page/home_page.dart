@@ -40,6 +40,8 @@ class _HomePageState extends State<HomePage> {
                   title: Text(
                     todo.title,
                     style: TextStyle(
+                      fontWeight: FontWeight.w500,
+                      fontSize: 20,
                       decoration:
                           todo.isDone ? TextDecoration.lineThrough : null,
                     ),
@@ -47,6 +49,7 @@ class _HomePageState extends State<HomePage> {
                   subtitle: Text(
                     todo.description ?? '',
                     style: TextStyle(
+                      fontSize: 18,
                       decoration:
                           todo.isDone ? TextDecoration.lineThrough : null,
                     ),
