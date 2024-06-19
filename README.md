@@ -1,16 +1,10 @@
-# faztodo
+# Todo App
 
-A new Flutter project.
+A simple Todo app that allows users to add, edit, delete tasks, and save tasks using SharedPreferences.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Add Task**: Users can add new tasks to their list.
+- **Edit Task**: Users can edit existing tasks.
+- **Delete Task**: Users can delete tasks from their list.
+- **Save Tasks**: Tasks are saved using SharedPreferences.
